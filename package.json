@@ -1,5 +1,5 @@
 {
-  "name": "jasmine",
+  "name": "@breautek/jasmine",
   "description": "Command line jasmine",
   "homepage": "http://jasmine.github.io/",
   "keywords": [
